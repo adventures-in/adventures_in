@@ -22,7 +22,7 @@ I want to video chat -> briefly describe the purpose in #event then jump into >e
 
 I was recently chatting in a thread and I want to back there -> Active Threads (see image below)
 
-Image
+<img width="308" alt="Screen Shot 2021-12-09 at 10 52 08 am" src="https://user-images.githubusercontent.com/1059276/145333141-5ce98305-a156-4446-b424-f627033a0e92.png">
 
 ---
 
