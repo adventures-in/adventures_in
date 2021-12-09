@@ -37,3 +37,7 @@ Otherwise there are 4 categories of channels:
 **projects** : Progress updates and discussion for a specific project.  Links to documentation & the project repo can be found in the channel description.
 
 **icebox** : The place where stale projects go to be assimilated, and where off-by-one errors live.
+
+---
+
+This welcome message will self destruct in... well who knows?  But the source of truth is at https://github.com/adventures-in/adventures_in/blob/main/discord_welcome.md and everyone is welcome to suggest changes 👩‍🔧
